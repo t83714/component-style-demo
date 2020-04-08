@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "manage-style-with-namespace",
+      "manage-style-with-component-life-cycle"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^5.13.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.0"
+  }
+}
