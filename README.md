@@ -1,6 +1,6 @@
 # component-style-demo
 
-A demo repo showcase managing component style with fractal-component's namespace
+A demo repo made with [fractal-component](https://github.com/t83714/fractal-component) showcases managing component style with fractal-component's namespace
 
 ### How to run
 
