@@ -38,9 +38,7 @@ class RandomGif extends React.Component {
 
         this.styleSheet = jss
             .setup(jssDefaultPreset())
-            .createStyleSheet(styles, {
-                generateClassName: this.componentManager.createClassNameGenerator()
-            })
+            .createStyleSheet(styles)
             .attach();
     }
 
